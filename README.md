@@ -20,7 +20,7 @@ I specialize in transforming raw data into actionable insights using Python, SQL
 
 ## 📫 Let's Connect!  
 - **LinkedIn:** [www.linkedin.com/in/talhababar98](https://www.linkedin.com/in/talhababar98)  
-- **GitHub:** [github.com/yourusername](https://github.com/talhababar-tech)  
+- **GitHub:** [github.com](https://github.com/talhababar-tech)  
 
 
 💡 *Always open to discussing data engineering, analytics, and BI solutions!*  
